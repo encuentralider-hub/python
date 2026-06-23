@@ -1,4 +1,4 @@
-ws_nombre = "Duval"
+ws_usuario_ingresado = input("Ingrese su nombre de usuario: ")
 db_nombre_usuario = ""
 ws_contraseña_almacenada_en_bd = "Admin1234"
 ws_contraseña_tipeada_por_usuario = "Admin1235"
